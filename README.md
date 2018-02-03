@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## DINOLIN YP JOB
 
-You can use the [editor on GitHub](https://github.com/dinolinjob/dinolinjob.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a student with extreme curiosity for insight learning.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
