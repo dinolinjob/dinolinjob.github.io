@@ -5,7 +5,9 @@ I'm a student with extreme curiosity for insight learning.
 ## Resume
 
 ```markdown
-
+```markdown
+EDUCATION
+```
 Syntax highlighted code block
 
 # Header 1
