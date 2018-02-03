@@ -23,9 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://www.canva.com/design/DACuUGMhA8E/share?role=EDITOR&token=tpSQkopxyLYGjey79B2XdA&utm_content=DACuUGMhA8E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+[Link](url) and ![Image]()
 ```
-![Image](https://www.canva.com/design/DACuUGMhA8E/share?role=EDITOR&token=tpSQkopxyLYGjey79B2XdA&utm_content=DACuUGMhA8E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+![Image](https://photos.app.goo.gl/BYqIBUWnIHH1C5593)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
