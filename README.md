@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](https://www.canva.com/design/DACuUGMhA8E/share?role=EDITOR&token=tpSQkopxyLYGjey79B2XdA&utm_content=DACuUGMhA8E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 ```
-
+![Image](https://www.canva.com/design/DACuUGMhA8E/share?role=EDITOR&token=tpSQkopxyLYGjey79B2XdA&utm_content=DACuUGMhA8E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
