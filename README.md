@@ -48,7 +48,7 @@ July 2017 - Sep 2017
 
 An Android based web application for the Grafic company(www.grafic.biz).
 
-## SKILLS
+## TECHNICAL SKILLS
 
 **C++ Programming**
 
