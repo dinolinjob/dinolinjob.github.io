@@ -38,25 +38,20 @@ CGPA: 9.20/10
 **Medication Reminder App** 
 
 Nov 2017 - Jan 2018
+
 An Android application that helps to remind the patients to intake their 
 medication.I have created this app using android studio and basic concepts of java.
 
 **Web app for Grafic**
 
 July 2017 - Sep 2017
+
 An Android based web application for the Grafic company(www.grafic.biz).
+
+## SKILLS
 
 
 # Contact me
-```markdown
-![Image](https://photos.app.goo.gl/BYqIBUWnIHH1C5593)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dinolinjob/dinolinjob.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-```
+**Mail Address**  : *dinolinypjob@karunya.edu.in*
+**Phone Address** : *+91 9962038208*
