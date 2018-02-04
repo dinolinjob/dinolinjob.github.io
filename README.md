@@ -66,7 +66,7 @@ An Android based web application for the Grafic company(www.grafic.biz).
 
 **Android App development**
 
-## Hobbies
+## HOBBIES
 
 *Swimming*
 
