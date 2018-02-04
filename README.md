@@ -12,27 +12,32 @@ more indispensable than making money.
 ## EDUCATION
 
 **B.Tech(Hons.),Computer Science and Engineering (2016 - 2020)**
+
 Karunya Institute of Technology and sciences.
 CGPA: 8.20/10
 
 **XII(Senior Secondary),Science**
+
 Year of Completion:2016
 CBSE Board(Velammal Vidhyashram)
 Percentage: 77.80%
 
 **X(Secondary)**
+
 Year of Completion:2014
 CBSE Board(The Velammal International School)
 CGPA: 9.20/10
 
 ## PROJECTS
 
-**Medication Reminder App**
+**Medication Reminder App** 
+
 Nov 2017 - Jan 2018
 An Android application that helps to remind the patients to intake their 
 medication.I have created this app using android studio and basic concepts of java.
 
 **Web app for Grafic**
+
 July 2017 - Sep 2017
 An Android based web application for the Grafic company(www.grafic.biz).
 
