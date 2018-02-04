@@ -50,8 +50,32 @@ An Android based web application for the Grafic company(www.grafic.biz).
 
 ## SKILLS
 
+**C++ Programming**
+
+**Java Programming**
+
+**Android App Development**
+
+**Python Programming**
+
+## INTERESTS
+
+**Machine Learning**
+
+**Computer Vision**
+
+**Android App development**
+
+## Hobbies
+
+*Swimming*
+
+*Watching Movies*
+
+*Reading books*
 
 # Contact me
 
 **Mail Address**  : *dinolinypjob@karunya.edu.in*
+
 **Phone Address** : *+91 9962038208*
