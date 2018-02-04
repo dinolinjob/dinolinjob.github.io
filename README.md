@@ -1,35 +1,40 @@
-## About me
+# About me
 
 I'm **Dinolin YP Job** currently pursuing my honors in **Computer Science and Technology** in
 *Karunya Institute of Technology and Sciences*.
 I'm an insatiable learner,technology enthusiasts and a passionate programmer with proficient 
 technical skills.
-I have a fascination towards money handling and I believe that prioritizing money handling is
+I have a fascination towards knowledge in money handling and I believe that prioritizing money handling is
 more indispensable than making money.
 
-## Resume
+# Resume
 
-```markdown
+##EDUCATION
+**B.Tech(Hons.),Computer Science and Engineering (2016 - 2020)**
+Karunya Institute of Technology and sciences.
+CGPA: 8.20/10
 
-```markdown
-EDUCATION
-```
-Syntax highlighted code block
+**XII(Senior Secondary),Science**
+Year of Completion:2016
+CBSE Board(Velammal Vidhyashram)
+Percentage: 77.80%
 
-# Header 1
-## Header 2
-### Header 3
+**X(Secondary)**
+Year of Completion:2014
+CBSE Board(The Velammal International School)
+CGPA: 9.20/10
 
-- Bulleted
-- List
+##PROJECTS
+**Medication Reminder App**
+Nov 2017 - Jan 2018
+An Android application that helps to remind the patients to intake their 
+medication.I have created this app using android studio and basic concepts of java.
 
-1. Numbered
-2. List
+**Web app for Grafic**
+July 2017 - Sep 2017
+An Android based web application for the Grafic company(www.grafic.biz).
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image]()
-```
 ## Contact me
 ```markdown
 ![Image](https://photos.app.goo.gl/BYqIBUWnIHH1C5593)
