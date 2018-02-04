@@ -68,11 +68,11 @@ An Android based web application for the Grafic company(www.grafic.biz).
 
 ## HOBBIES
 
-*Swimming*
+**Swimming**
 
-*Watching Movies*
+**Watching Movies**
 
-*Reading books*
+**Reading books**
 
 # Contact me
 
