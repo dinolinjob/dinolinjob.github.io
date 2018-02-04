@@ -9,7 +9,8 @@ more indispensable than making money.
 
 # Resume
 
-##EDUCATION
+## EDUCATION
+
 **B.Tech(Hons.),Computer Science and Engineering (2016 - 2020)**
 Karunya Institute of Technology and sciences.
 CGPA: 8.20/10
@@ -24,7 +25,8 @@ Year of Completion:2014
 CBSE Board(The Velammal International School)
 CGPA: 9.20/10
 
-##PROJECTS
+## PROJECTS
+
 **Medication Reminder App**
 Nov 2017 - Jan 2018
 An Android application that helps to remind the patients to intake their 
@@ -35,7 +37,7 @@ July 2017 - Sep 2017
 An Android based web application for the Grafic company(www.grafic.biz).
 
 
-## Contact me
+# Contact me
 ```markdown
 ![Image](https://photos.app.goo.gl/BYqIBUWnIHH1C5593)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
