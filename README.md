@@ -1,12 +1,12 @@
 ## About me
-```markdown
+
 I'm **Dinolin YP Job** currently pursuing my honors in **Computer Science and Technology** in
 *Karunya Institute of Technology and Sciences*.
 I'm an insatiable learner,technology enthusiasts and a passionate programmer with proficient 
 technical skills.
 I have a fascination towards money handling and I believe that prioritizing money handling is
 more indispensable than making money.
-```
+
 ## Resume
 
 ```markdown
