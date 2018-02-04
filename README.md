@@ -14,18 +14,23 @@ more indispensable than making money.
 **B.Tech(Hons.),Computer Science and Engineering (2016 - 2020)**
 
 Karunya Institute of Technology and sciences.
+
 CGPA: 8.20/10
 
 **XII(Senior Secondary),Science**
 
 Year of Completion:2016
+
 CBSE Board(Velammal Vidhyashram)
+
 Percentage: 77.80%
 
 **X(Secondary)**
 
 Year of Completion:2014
+
 CBSE Board(The Velammal International School)
+
 CGPA: 9.20/10
 
 ## PROJECTS
