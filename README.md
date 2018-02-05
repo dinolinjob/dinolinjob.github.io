@@ -11,7 +11,7 @@ more indispensable than making money.
 
 ## EDUCATION
 
-**B.Tech(Hons.),Computer Science and Engineering (2016 - 2020)**
+**B.Tech(Hons.),Computer Science and Technology (2016 - 2020)**
 
 Karunya Institute of Technology and sciences.
 
