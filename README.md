@@ -40,7 +40,7 @@ CGPA: 9.20/10
 Nov 2017 - Jan 2018
 
 An Android application that helps to remind the patients to intake their 
-medication.I have created this app using android studio and basic concepts of java.
+medication.I also have created this app using android studio and basic concepts of java.
 
 **Web app for Grafic**
 
