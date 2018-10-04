@@ -76,6 +76,6 @@ An Android based web application for the Grafic company(www.grafic.biz).
 
 # Contact me
 
-**Mail Address**  : *dinolinypjob@karunya.edu.in*
+**Mail Address**  : **dinolinypjob@karunya.edu.in**
 
 
