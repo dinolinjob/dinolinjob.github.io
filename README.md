@@ -1,4 +1,4 @@
-# About me
+# About me.
 
 I'm **Dinolin YP Job** currently pursuing my honors in **Computer Science and Technology** in
 *Karunya Institute of Technology and Sciences*.
